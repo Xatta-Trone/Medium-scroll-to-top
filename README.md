@@ -8,10 +8,10 @@
 
 ## Installation Instructions
 ### Google Chrome / Microsoft Edge / Chromium Browsers (Brave/Opera Mini) (Custom sites supported) 
-[![Download from chrome web store](img/chrome.png)](https://chrome.google.com/webstore/detail/medium-parser/egejbknaophaadmhijkepokfchkbnelc?hl=en&authuser=0) 
+[![Download from chrome web store](img/chrome.png)](https://chrome.google.com/webstore/detail/medium-parser/mdndkjcpjghiedgabmimnonibloiffal?hl=en&authuser=0) 
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/egejbknaophaadmhijkepokfchkbnelc)
- ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/egejbknaophaadmhijkepokfchkbnelc)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/mdndkjcpjghiedgabmimnonibloiffal)
+ ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/mdndkjcpjghiedgabmimnonibloiffal)
 
 
 Or install manually
@@ -23,9 +23,9 @@ Or install manually
 
 
 ### Mozilla Firefox (Custom sites not supported) 
-[![Download from mozilla add-ons](img/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/medium-parser/) 
+[![Download from mozilla add-ons](img/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/medium-scroll-to-top/) 
 
-![Mozilla Add-on Rating](https://img.shields.io/amo/rating/medium-parser) ![Mozilla Add-on Stars](https://img.shields.io/amo/stars/medium-parser)
+![Mozilla Add-on Rating](https://img.shields.io/amo/rating/medium-scroll-to-top) ![Mozilla Add-on Stars](https://img.shields.io/amo/stars/medium-scroll-to-top)
 
 
 ## Preview
